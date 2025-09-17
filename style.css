@@ -1,0 +1,9 @@
+:root {
+--azul-escuro: #392d69ff;
+--roxo-escuro: #4e3a7fff;
+--ultra-violeta: #624795ff;
+--roxo: #5a189aff;
+}
+body{
+    background-color: var(--roxo);
+}
