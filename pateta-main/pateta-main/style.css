@@ -27,20 +27,8 @@ font-size: 23px;
 padding: 4px;
 border-radius: 10px;
 margin: 5px;
-color:rgb(255, 255, 255);
+color:black;
 box-shadow: 2px 2px 5px black
 
 }
-button:hover{
-    background-color: var(--roxo);
-    box-shadow: none;
-    transition: 0.5s;
-}
-
-.passo{
-   display: none;
-}
-
-.passo.ativo{
-    display: block;
-}
+button 
